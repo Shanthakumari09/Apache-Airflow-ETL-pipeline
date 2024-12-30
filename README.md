@@ -1,7 +1,4 @@
 # Apache-Airflow-ETL-pipeline
-This project is an Extract, Transform, Load (ETL) pipeline built using Apache Airflow. It is designed to automate the process of extracting data from various sources, transforming it to meet business requirement.
-# 🚀 Airflow ETL Pipeline: Your Data's Journey Awaits!
-
 This repository is your launchpad for building robust and automated ETL (Extract, Transform, Load) pipelines using the powerful combination of Apache Airflow and Python! We're not just moving data, we're orchestrating a symphony of information flow. 🎶
 
 **Think of it this way:** Raw data is like a rough gemstone. This pipeline is the workshop where we polish it, shape it, and set it into a beautiful, insightful data gem, ready for your analytics dashboards or machine learning models. ✨
